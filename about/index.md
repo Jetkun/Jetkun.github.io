@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+一个臭打游戏的
