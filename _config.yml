@@ -217,7 +217,8 @@ font:
 social:
   GitHub: https://github.com/jetkun
   University: https://www.scnu.edu.cn/
-  Gamepad: https://space.bilibili.com/1502447365
+  GameShare: https://space.bilibili.com/1502447365
+  Steam: https://steamcommunity.com/id/JetKun/
 
 
 
@@ -234,7 +235,9 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   University: university
-  Gamepad: gamepad
+  GameShare: gamepad
+  Steam: fa-steam-square
+
 
 
 # Sidebar Avatar
